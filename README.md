@@ -52,3 +52,9 @@ These findings describe the responses observed during this exercise. A successfu
 ## Disclaimer
 
 This project is a basic defensive web-security learning exercise using command-line requests. Findings reflect the test responses recorded in the project and do not represent a comprehensive assessment or penetration test of the target.
+
+## Continue Learning with Better Hacker
+
+Explore the related free beginner lesson and hands-on practice:
+
+[Web Security lesson](https://betterhacker.org/#web-security-lesson) · [Practice Library](https://betterhacker.org/#practice-library)
